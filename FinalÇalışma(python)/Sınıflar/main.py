@@ -25,10 +25,6 @@ print("""
 
     TC No: {}
 
-    Not Ortalaması: {}
+    Not Ortalaması: {}+
 """.format(cocuk.isim,cocuk.soyad,cocuk.yas
 ,cocuk.cinsiyet,cocuk.kilo,cocuk.tcno,cocuk.toplama(a,b)))
-
-
-
-
