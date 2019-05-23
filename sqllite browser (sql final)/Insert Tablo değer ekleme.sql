@@ -1,0 +1,7 @@
+--INSERT INTO personel VALUES("Ali","Murat","Teknisyen",1200)
+--INSERT INTO personel VALUES("Ali","Murat","Teknisyen",1200)
+--INSERT INTO personel VALUES("Mustafa","Kuş","Teknisyen",1400)
+--INSERT INTO personel VALUES("Ayşe","Demir","Hizmetli",900)
+--INSERT INTO personel VALUES("Fuat","Çakır","Mühendis",2100)
+--INSERT INTO personel VALUES("Dursun","Aydın","Mühendis",1000)
+--INSERT INTO personel VALUES("Mete","Cuma","Hizmetli",800)
